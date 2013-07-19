@@ -1,0 +1,10 @@
+function geoip_country_code() { return 'IN'; }
+function geoip_country_name() { return 'India'; }
+function geoip_city()         { return 'Gurgaon'; }
+function geoip_region()       { return '10'; }
+function geoip_region_name()  { return 'Haryana'; }
+function geoip_latitude()     { return '28.4667'; }
+function geoip_longitude()    { return '77.0333'; }
+function geoip_postal_code()  { return ''; }
+function geoip_area_code()    { return ''; }
+function geoip_metro_code()   { return ''; }

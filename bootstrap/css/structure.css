@@ -1,0 +1,9 @@
+.heading_distance{
+  overflow: hidden;
+}
+.heading_distance h3{
+  float: left;
+}
+.heading_distance p{
+  float: right;
+}
